@@ -30,8 +30,6 @@ public class Contact implements Serializable {
 
 	private Long id;
 	private int version;
-	private String firstName;
-	private String lastName;
 	private DateTime birthDate;
 	private String description;
 	private byte[] photo;
